@@ -9,7 +9,9 @@ Aqui estão algumas ideias para você começar:
 - 📫 Como entrar em contato comigo:por gmail
 - ⚡ Curiosidade: jogo bastante futebol
 - 👙💅
-- [timinho](https://www.flamengo.com.br/home)
-- ![](![image](https://github.com/user-attachments/assets/8f0b81d4-f759-4120-a34f-6f53791b9311)
+
+[timinho](https://www.flamengo.com.br/home)
+
+![](https://github.com/user-attachments/assets/8f0b81d4-f759-4120-a34f-6f53791b9311)
 
 
